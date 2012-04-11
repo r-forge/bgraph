@@ -1,0 +1,44 @@
+
+
+#importFrom( stats,
+#      "factanal",
+#      "princomp"
+#)
+
+
+#importFrom(",
+#"ColorBrewer,
+#      "brewer.pal"
+#)
+      
+exportClasses(
+              "dgraph"
+              )
+
+#exportMethods(
+#              "print",
+#              "summary",
+#              "pairs"
+#              )
+
+export(
+        "log_multi_gamma",
+        "maximalCliquesBK",
+        "rand_tn",
+        "GWishart_BIPS_maximumClique",
+        "GWishart_BIPS_pairwise",
+        "GWishart_NOij_Gibbs",
+        "GWishart_PAS_DMH",
+        "log_GWishart_NOij_pdf",
+        "log_GWishart_pdf",
+        "log_GWishart_ud_const_mc",
+        "rand_truncated_normal_rej_above",
+        "rand_truncated_normal_rej_below",
+        "rand_truncated_normal_rej_twosided",
+        "log_H",
+        "log_J",
+        "wishart_InvA_rnd_ud_rw",
+        "log_iwishart_InvA_const",
+        "log_hiwishart_InvA_const"
+)
+
