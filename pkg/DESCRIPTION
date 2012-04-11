@@ -1,7 +1,7 @@
-Package: NonDecompGraph
+Package: bgraph
 Version: 0.0-01
 Date: 2012-03-19
-Title: NonDecomposable Graph
+Title: Bayesian Graphical Models
 Author: Hao Wang <>,
         Masanao Yajima <yajima@ucla.edu>
 Maintainer: Masanao Yajima <yajima@ucla.edu>
