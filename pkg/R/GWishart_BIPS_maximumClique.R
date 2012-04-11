@@ -1,7 +1,7 @@
  #     Sample C from Gwishart distribution with  density:
  #          p(C) \propto |C|^{(bG-2)/2} exp(-1/2 tr(C DG))
  #     where     
- #      (1)  bG : d.f.
+ #      (1)  bG : d.f. 
  #      (2)  DG: location
  #      (3)  adj: adjacency matrix 
  #     C: initial partial covariance matrix;
